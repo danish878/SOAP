@@ -1,0 +1,6 @@
+server:
+  servlet:
+    context-path: /wsdl_first_ws
+
+cxf:
+  path: /

@@ -1,0 +1,5 @@
+com\danny\sumws\dto\SumRequest.class
+com\danny\sumws\SumWS.class
+com\danny\sumws\SumWSImpl.class
+com\danny\sumws\dto\SumResponse.class
+com\danny\sumws\PasswordCallbackHandler.class
